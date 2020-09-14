@@ -5,6 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>DC78182 | WhiteSea DC</title>
+    <link rel="icon" href="imgs/ico.png">
     <!-- Google Font: Source Sans Pro -->
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700&display=fallback">
     <!-- Font Awesome Icons -->
@@ -66,7 +67,7 @@
         <aside class="main-sidebar sidebar-dark-primary elevation-4">
             <!-- Brand Logo -->
             <a href="/" class="brand-link">
-                <img src="https://ctftime.org/media/team/defcon_2.jpg" alt="DefCon Logo" class="brand-image img-circle elevation-3" style="opacity: .8">
+                <img src="imgs/ico.png" alt="DefCon Logo" class="brand-image img-circle elevation-3">
                 <span class="brand-text font-weight-light">WhiteSea <i class="fas fa-bolt"></i> DC</span>
             </a>
             <!-- Sidebar -->
