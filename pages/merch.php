@@ -25,46 +25,34 @@
                             <div class="row">
                                 <div class="col-sm-4">
                                     <a href="#">
-                                        <img class="img-fluid"
-                                            src="https://placehold.it/800x400/FFE4B5/ffffff&amp;text=Coming+soon!"
-                                            alt="User profile picture">
+                                        <img class="img-fluid" src="https://placehold.it/800x400/FFE4B5/ffffff&amp;text=Coming+soon!" alt="User profile picture">
                                     </a>
                                 </div>
                                 <div class="col-sm-4">
                                     <a href="#">
-                                        <img class="img-fluid"
-                                            src="https://placehold.it/800x400/FFE4B5/ffffff&amp;text=Coming+soon!"
-                                            alt="User profile picture">
+                                        <img class="img-fluid" src="https://placehold.it/800x400/FFE4B5/ffffff&amp;text=Coming+soon!" alt="User profile picture">
                                     </a>
                                 </div>
                                 <div class="col-sm-4">
                                     <a href="#">
-                                        <img class="img-fluid"
-                                            src="https://placehold.it/800x400/FFE4B5/ffffff&amp;text=Coming+soon!"
-                                            alt="User profile picture">
+                                        <img class="img-fluid" src="https://placehold.it/800x400/FFE4B5/ffffff&amp;text=Coming+soon!" alt="User profile picture">
                                     </a>
                                 </div>
                             </div>
                             <div class="row mt-4">
                                 <div class=" col-sm-4">
                                     <a href="#">
-                                        <img class="img-fluid"
-                                            src="https://placehold.it/800x400/FFE4B5/ffffff&amp;text=Coming+soon!"
-                                            alt="User profile picture">
+                                        <img class="img-fluid" src="https://placehold.it/800x400/FFE4B5/ffffff&amp;text=Coming+soon!" alt="User profile picture">
                                     </a>
                                 </div>
                                 <div class="col-sm-4">
                                     <a href="#">
-                                        <img class="img-fluid"
-                                            src="https://placehold.it/800x400/FFE4B5/ffffff&amp;text=Coming+soon!"
-                                            alt="User profile picture">
+                                        <img class="img-fluid" src="https://placehold.it/800x400/FFE4B5/ffffff&amp;text=Coming+soon!" alt="User profile picture">
                                     </a>
                                 </div>
                                 <div class="col-sm-4">
                                     <a href="#">
-                                        <img class="img-fluid"
-                                            src="https://placehold.it/800x400/FFE4B5/ffffff&amp;text=Coming+soon!"
-                                            alt="User profile picture">
+                                        <img class="img-fluid" src="https://placehold.it/800x400/FFE4B5/ffffff&amp;text=Coming+soon!" alt="User profile picture">
                                     </a>
                                 </div>
                             </div>

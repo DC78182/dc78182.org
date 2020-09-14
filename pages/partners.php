@@ -31,20 +31,20 @@
                                         защиты информации и возможных уязвимостях информационных систем Вашей
                                         организации, а также спланировать меры по их устранению.</p>
                                     <ul class="ml-4 mb-0 fa-ul text-muted">
-                                        <li class=""><span class="fa-li"><i class="fas fa-lg fa-globe"></i></span><a
-                                                href="https://www.shartrez.com/"
-                                                target="_blank">https://www.shartrez.com/</a></li>
-                                        <li class=""><span class="fa-li"><i class="fas fa-lg fa-envelope"></i></span><a
-                                                href="mailto:order@shartrez.com">order@shartrez.com</a></li>
-                                        <li class=""><span class="fa-li"><i class="fas fa-lg fa-phone"></i></span><a
-                                                href="tel:+78182424764">8(8182)424-764</a></li>
+                                        <li class="">
+                                            <span class="fa-li">
+                                                <i class="fas fa-lg fa-globe"></i>
+                                            </span>
+                                            <a href="https://www.shartrez.com/" target="_blank">https://www.shartrez.com/</a>
+                                        </li>
+                                        <li class=""><span class="fa-li"><i class="fas fa-lg fa-envelope"></i></span><a href="mailto:order@shartrez.com">order@shartrez.com</a></li>
+                                        <li class=""><span class="fa-li"><i class="fas fa-lg fa-phone"></i></span><a href="tel:+78182424764">8(8182)424-764</a></li>
                                         <li class=""><span class="fa-li"><i class="fas fa-lg fa-building"></i></span>
                                             163002, Архангельск, Новгородский, 32B, офис 310</li>
                                     </ul>
                                 </div>
                                 <div class="col-3 text-center">
-                                    <img src="https://www.shartrez.com/uploads/newshartrez/img/logo.svg" alt=""
-                                        class="img-fluid">
+                                    <img src="https://www.shartrez.com/uploads/newshartrez/img/logo.svg" alt="" class="img-fluid">
                                 </div>
                             </div>
                         </div>
@@ -65,17 +65,13 @@
                                         собственные разработки и исследования в области информационной безопасности,
                                         свежие новости из мира IT, обзоры на оборудование и программное обеспечение.</p>
                                     <ul class="ml-4 mb-0 fa-ul text-muted">
-                                        <li class=""><span class="fa-li"><i class="fas fa-lg fa-globe"></i></span><a
-                                                href="https://codeby.net/" target="_blank">https://codeby.net/</a></li>
-                                        <li class=""><span class="fa-li"><i class="fas fa-lg fa-envelope"></i></span><a
-                                                href="mailto:mail@codeby.net">mail@codeby.net</a></li>
-                                        <li class=""><span class="fa-li"><i class="fas fa-lg fa-phone"></i></span><a
-                                                href="tel:+78007075466">8 800 707 5466</a></li>
+                                        <li class=""><span class="fa-li"><i class="fas fa-lg fa-globe"></i></span><a href="https://codeby.net/" target="_blank">https://codeby.net/</a></li>
+                                        <li class=""><span class="fa-li"><i class="fas fa-lg fa-envelope"></i></span><a href="mailto:mail@codeby.net">mail@codeby.net</a></li>
+                                        <li class=""><span class="fa-li"><i class="fas fa-lg fa-phone"></i></span><a href="tel:+78007075466">8 800 707 5466</a></li>
                                     </ul>
                                 </div>
                                 <div class="col-3 text-center">
-                                    <img src="https://codeby.net/attachments/codeby_site-png.28765" alt=""
-                                        class="img-fluid">
+                                    <img src="https://codeby.net/attachments/codeby_site-png.28765" alt="" class="img-fluid">
                                 </div>
                             </div>
                         </div>

@@ -18,8 +18,7 @@
                 <div class="card-header">
                     <h3 class="card-title">Web</h3>
                     <div class="card-tools">
-                        <button type="button" class="btn btn-tool" data-card-widget="collapse" data-toggle="tooltip"
-                            title="Collapse">
+                        <button type="button" class="btn btn-tool" data-card-widget="collapse" data-toggle="tooltip" title="Collapse">
                             <i class="fas fa-plus"></i></button>
                     </div>
                 </div>
@@ -38,16 +37,12 @@
                                                 поиска и эксплуатации уязвимостей. Подойдёт тем, кто ищет, с чего
                                                 начать. </p>
                                             <ul class="ml-4 mb-0 fa-ul text-muted">
-                                                <li class="small"><span class="fa-li"><i
-                                                            class="fas fa-lg fa-file"></i></span> Источник: <a
-                                                        href="https://geekbrains.ru/posts/podborka-knig-po-infobezopasnosti-ot-prepodavatelej"
-                                                        target="_blank">https://geekbrains.ru/posts/podborka-knig-po-infobezopasnosti-ot-prepodavatelej
+                                                <li class="small"><span class="fa-li"><i class="fas fa-lg fa-file"></i></span> Источник: <a href="https://geekbrains.ru/posts/podborka-knig-po-infobezopasnosti-ot-prepodavatelej" target="_blank">https://geekbrains.ru/posts/podborka-knig-po-infobezopasnosti-ot-prepodavatelej
                                                     </a> </li>
                                             </ul>
                                         </div>
                                         <div class="col-5 text-center">
-                                            <img src="https://d2xzmw6cctk25h.cloudfront.net/geekbrains/public/ckeditor_assets/pictures/9477/retina-6fce8372d2994e4b7d148d1e45aad568.png"
-                                                alt="Фото" class="img-fluid">
+                                            <img src="https://d2xzmw6cctk25h.cloudfront.net/geekbrains/public/ckeditor_assets/pictures/9477/retina-6fce8372d2994e4b7d148d1e45aad568.png" alt="Фото" class="img-fluid">
                                         </div>
                                     </div>
                                 </div>
@@ -67,16 +62,12 @@
                                                 много примеров использования софта для атак. Отлично дополнит предыдущую
                                                 книгу. </p>
                                             <ul class="ml-4 mb-0 fa-ul text-muted">
-                                                <li class="small"><span class="fa-li"><i
-                                                            class="fas fa-lg fa-file"></i></span> Источник: <a
-                                                        href="https://geekbrains.ru/posts/podborka-knig-po-infobezopasnosti-ot-prepodavatelej"
-                                                        target="_blank">https://geekbrains.ru/posts/podborka-knig-po-infobezopasnosti-ot-prepodavatelej
+                                                <li class="small"><span class="fa-li"><i class="fas fa-lg fa-file"></i></span> Источник: <a href="https://geekbrains.ru/posts/podborka-knig-po-infobezopasnosti-ot-prepodavatelej" target="_blank">https://geekbrains.ru/posts/podborka-knig-po-infobezopasnosti-ot-prepodavatelej
                                                     </a> </li>
                                             </ul>
                                         </div>
                                         <div class="col-5 text-center">
-                                            <img src="https://d2xzmw6cctk25h.cloudfront.net/geekbrains/public/ckeditor_assets/pictures/9474/retina-555971ec6f577ac561f25599f274f86f.png"
-                                                alt="Фото" class="img-fluid">
+                                            <img src="https://d2xzmw6cctk25h.cloudfront.net/geekbrains/public/ckeditor_assets/pictures/9474/retina-555971ec6f577ac561f25599f274f86f.png" alt="Фото" class="img-fluid">
                                         </div>
                                     </div>
                                 </div>
@@ -96,16 +87,12 @@
                                                 Несмотря на то, что издана в 2007 году, актуальности почти не потеряла —
                                                 все основные виды XSS рассмотрены. </p>
                                             <ul class="ml-4 mb-0 fa-ul text-muted">
-                                                <li class="small"><span class="fa-li"><i
-                                                            class="fas fa-lg fa-file"></i></span> Источник: <a
-                                                        href="https://geekbrains.ru/posts/podborka-knig-po-infobezopasnosti-ot-prepodavatelej"
-                                                        target="_blank">https://geekbrains.ru/posts/podborka-knig-po-infobezopasnosti-ot-prepodavatelej
+                                                <li class="small"><span class="fa-li"><i class="fas fa-lg fa-file"></i></span> Источник: <a href="https://geekbrains.ru/posts/podborka-knig-po-infobezopasnosti-ot-prepodavatelej" target="_blank">https://geekbrains.ru/posts/podborka-knig-po-infobezopasnosti-ot-prepodavatelej
                                                     </a> </li>
                                             </ul>
                                         </div>
                                         <div class="col-5 text-center">
-                                            <img src="https://d2xzmw6cctk25h.cloudfront.net/geekbrains/public/ckeditor_assets/pictures/9462/retina-eb905ab849259dc6553a579fe3a2822c.png"
-                                                alt="Фото" class="img-fluid">
+                                            <img src="https://d2xzmw6cctk25h.cloudfront.net/geekbrains/public/ckeditor_assets/pictures/9462/retina-eb905ab849259dc6553a579fe3a2822c.png" alt="Фото" class="img-fluid">
                                         </div>
                                     </div>
                                 </div>
@@ -131,16 +118,12 @@
                                                 Internet Explorer, который уже практически не используется. Но общие
                                                 подходы и проблемы, которые описаны в книге, до сих пор актуальны. </p>
                                             <ul class="ml-4 mb-0 fa-ul text-muted">
-                                                <li class="small"><span class="fa-li"><i
-                                                            class="fas fa-lg fa-file"></i></span> Источник: <a
-                                                        href="https://geekbrains.ru/posts/podborka-knig-po-infobezopasnosti-ot-prepodavatelej"
-                                                        target="_blank">https://geekbrains.ru/posts/podborka-knig-po-infobezopasnosti-ot-prepodavatelej
+                                                <li class="small"><span class="fa-li"><i class="fas fa-lg fa-file"></i></span> Источник: <a href="https://geekbrains.ru/posts/podborka-knig-po-infobezopasnosti-ot-prepodavatelej" target="_blank">https://geekbrains.ru/posts/podborka-knig-po-infobezopasnosti-ot-prepodavatelej
                                                     </a> </li>
                                             </ul>
                                         </div>
                                         <div class="col-5 text-center">
-                                            <img src="https://d2xzmw6cctk25h.cloudfront.net/geekbrains/public/ckeditor_assets/pictures/9465/retina-971fae67a9cf130b553a146aea5e3631.png"
-                                                alt="Фото" class="img-fluid">
+                                            <img src="https://d2xzmw6cctk25h.cloudfront.net/geekbrains/public/ckeditor_assets/pictures/9465/retina-971fae67a9cf130b553a146aea5e3631.png" alt="Фото" class="img-fluid">
                                         </div>
                                     </div>
                                 </div>
@@ -162,16 +145,12 @@
                                                 использовать как методологию для комплексного и полного тестирования
                                                 веб-приложений. </p>
                                             <ul class="ml-4 mb-0 fa-ul text-muted">
-                                                <li class="small"><span class="fa-li"><i
-                                                            class="fas fa-lg fa-file"></i></span> Источник: <a
-                                                        href="https://geekbrains.ru/posts/podborka-knig-po-infobezopasnosti-ot-prepodavatelej"
-                                                        target="_blank">https://geekbrains.ru/posts/podborka-knig-po-infobezopasnosti-ot-prepodavatelej
+                                                <li class="small"><span class="fa-li"><i class="fas fa-lg fa-file"></i></span> Источник: <a href="https://geekbrains.ru/posts/podborka-knig-po-infobezopasnosti-ot-prepodavatelej" target="_blank">https://geekbrains.ru/posts/podborka-knig-po-infobezopasnosti-ot-prepodavatelej
                                                     </a> </li>
                                             </ul>
                                         </div>
                                         <div class="col-5 text-center">
-                                            <img src="https://d2xzmw6cctk25h.cloudfront.net/geekbrains/public/ckeditor_assets/pictures/9461/retina-0d7b64ae0ee5b4aed2ef08137eeec83b.png"
-                                                alt="Фото" class="img-fluid">
+                                            <img src="https://d2xzmw6cctk25h.cloudfront.net/geekbrains/public/ckeditor_assets/pictures/9461/retina-0d7b64ae0ee5b4aed2ef08137eeec83b.png" alt="Фото" class="img-fluid">
                                         </div>
                                     </div>
                                 </div>
@@ -186,8 +165,7 @@
                 <div class="card-header">
                     <h3 class="card-title">Железо</h3>
                     <div class="card-tools">
-                        <button type="button" class="btn btn-tool" data-card-widget="collapse" data-toggle="tooltip"
-                            title="Collapse">
+                        <button type="button" class="btn btn-tool" data-card-widget="collapse" data-toggle="tooltip" title="Collapse">
                             <i class="fas fa-plus"></i></button>
                     </div>
                 </div>
@@ -206,16 +184,12 @@
                                                 использовать устройства для реализации HID-атак. Пригодится тем, кто
                                                 хочет глубже изучить вопросы сборки устройств для пентестов. </p>
                                             <ul class="ml-4 mb-0 fa-ul text-muted">
-                                                <li class="small"><span class="fa-li"><i
-                                                            class="fas fa-lg fa-file"></i></span> Источник: <a
-                                                        href="https://geekbrains.ru/posts/podborka-knig-po-infobezopasnosti-ot-prepodavatelej"
-                                                        target="_blank">https://geekbrains.ru/posts/podborka-knig-po-infobezopasnosti-ot-prepodavatelej
+                                                <li class="small"><span class="fa-li"><i class="fas fa-lg fa-file"></i></span> Источник: <a href="https://geekbrains.ru/posts/podborka-knig-po-infobezopasnosti-ot-prepodavatelej" target="_blank">https://geekbrains.ru/posts/podborka-knig-po-infobezopasnosti-ot-prepodavatelej
                                                     </a> </li>
                                             </ul>
                                         </div>
                                         <div class="col-5 text-center">
-                                            <img src="https://d2xzmw6cctk25h.cloudfront.net/geekbrains/public/ckeditor_assets/pictures/9479/retina-d65a76910c3978617d9aaa2c4ead5f29.png"
-                                                alt="Фото" class="img-fluid">
+                                            <img src="https://d2xzmw6cctk25h.cloudfront.net/geekbrains/public/ckeditor_assets/pictures/9479/retina-d65a76910c3978617d9aaa2c4ead5f29.png" alt="Фото" class="img-fluid">
                                         </div>
                                     </div>
                                 </div>
@@ -230,8 +204,7 @@
                 <div class="card-header">
                     <h3 class="card-title">Red team</h3>
                     <div class="card-tools">
-                        <button type="button" class="btn btn-tool" data-card-widget="collapse" data-toggle="tooltip"
-                            title="Collapse">
+                        <button type="button" class="btn btn-tool" data-card-widget="collapse" data-toggle="tooltip" title="Collapse">
                             <i class="fas fa-plus"></i></button>
                     </div>
                 </div>
@@ -251,16 +224,12 @@
                                                 в качестве дополнительного материала тем, кто изучает возможности
                                                 Metasploit. </p>
                                             <ul class="ml-4 mb-0 fa-ul text-muted">
-                                                <li class="small"><span class="fa-li"><i
-                                                            class="fas fa-lg fa-file"></i></span> Источник: <a
-                                                        href="https://geekbrains.ru/posts/podborka-knig-po-infobezopasnosti-ot-prepodavatelej"
-                                                        target="_blank">https://geekbrains.ru/posts/podborka-knig-po-infobezopasnosti-ot-prepodavatelej
+                                                <li class="small"><span class="fa-li"><i class="fas fa-lg fa-file"></i></span> Источник: <a href="https://geekbrains.ru/posts/podborka-knig-po-infobezopasnosti-ot-prepodavatelej" target="_blank">https://geekbrains.ru/posts/podborka-knig-po-infobezopasnosti-ot-prepodavatelej
                                                     </a> </li>
                                             </ul>
                                         </div>
                                         <div class="col-5 text-center">
-                                            <img src="https://d2xzmw6cctk25h.cloudfront.net/geekbrains/public/ckeditor_assets/pictures/9458/retina-35f48a254a72d0d313fab5f9be6aff37.png"
-                                                alt="Фото" class="img-fluid">
+                                            <img src="https://d2xzmw6cctk25h.cloudfront.net/geekbrains/public/ckeditor_assets/pictures/9458/retina-35f48a254a72d0d313fab5f9be6aff37.png" alt="Фото" class="img-fluid">
                                         </div>
                                     </div>
                                 </div>
@@ -279,16 +248,12 @@
                                                 описано, как проводится red-team тестирование. Рекомендуется тем, кто
                                                 уже что-то знает о пентесте. </p>
                                             <ul class="ml-4 mb-0 fa-ul text-muted">
-                                                <li class="small"><span class="fa-li"><i
-                                                            class="fas fa-lg fa-file"></i></span> Источник: <a
-                                                        href="https://geekbrains.ru/posts/podborka-knig-po-infobezopasnosti-ot-prepodavatelej"
-                                                        target="_blank">https://geekbrains.ru/posts/podborka-knig-po-infobezopasnosti-ot-prepodavatelej
+                                                <li class="small"><span class="fa-li"><i class="fas fa-lg fa-file"></i></span> Источник: <a href="https://geekbrains.ru/posts/podborka-knig-po-infobezopasnosti-ot-prepodavatelej" target="_blank">https://geekbrains.ru/posts/podborka-knig-po-infobezopasnosti-ot-prepodavatelej
                                                     </a> </li>
                                             </ul>
                                         </div>
                                         <div class="col-5 text-center">
-                                            <img src="https://d2xzmw6cctk25h.cloudfront.net/geekbrains/public/ckeditor_assets/pictures/9475/retina-ba3b3e571099a056a3e2ed7378687780.png"
-                                                alt="Фото" class="img-fluid">
+                                            <img src="https://d2xzmw6cctk25h.cloudfront.net/geekbrains/public/ckeditor_assets/pictures/9475/retina-ba3b3e571099a056a3e2ed7378687780.png" alt="Фото" class="img-fluid">
                                         </div>
                                     </div>
                                 </div>
@@ -307,16 +272,12 @@
                                             <p class="text-muted text-sm"><b>About: </b> Здесь собраны практические
                                                 сценарии разных атак при проведении пентеста. </p>
                                             <ul class="ml-4 mb-0 fa-ul text-muted">
-                                                <li class="small"><span class="fa-li"><i
-                                                            class="fas fa-lg fa-file"></i></span> Источник: <a
-                                                        href="https://geekbrains.ru/posts/podborka-knig-po-infobezopasnosti-ot-prepodavatelej"
-                                                        target="_blank">https://geekbrains.ru/posts/podborka-knig-po-infobezopasnosti-ot-prepodavatelej
+                                                <li class="small"><span class="fa-li"><i class="fas fa-lg fa-file"></i></span> Источник: <a href="https://geekbrains.ru/posts/podborka-knig-po-infobezopasnosti-ot-prepodavatelej" target="_blank">https://geekbrains.ru/posts/podborka-knig-po-infobezopasnosti-ot-prepodavatelej
                                                     </a> </li>
                                             </ul>
                                         </div>
                                         <div class="col-5 text-center">
-                                            <img src="https://d2xzmw6cctk25h.cloudfront.net/geekbrains/public/ckeditor_assets/pictures/9466/retina-1d1ca6e4ec321303752f2dd7e3518bc1.png"
-                                                alt="Фото" class="img-fluid">
+                                            <img src="https://d2xzmw6cctk25h.cloudfront.net/geekbrains/public/ckeditor_assets/pictures/9466/retina-1d1ca6e4ec321303752f2dd7e3518bc1.png" alt="Фото" class="img-fluid">
                                         </div>
                                     </div>
                                 </div>
@@ -346,16 +307,12 @@
                                                 загрузочного диска Ubuntu Linux, который можно скачать и использовать,
                                                 не затрагивая установленную на компьютере ОС. </p>
                                             <ul class="ml-4 mb-0 fa-ul text-muted">
-                                                <li class="small"><span class="fa-li"><i
-                                                            class="fas fa-lg fa-file"></i></span> Источник: <a
-                                                        href="https://geekbrains.ru/posts/podborka-knig-po-infobezopasnosti-ot-prepodavatelej"
-                                                        target="_blank">https://geekbrains.ru/posts/podborka-knig-po-infobezopasnosti-ot-prepodavatelej
+                                                <li class="small"><span class="fa-li"><i class="fas fa-lg fa-file"></i></span> Источник: <a href="https://geekbrains.ru/posts/podborka-knig-po-infobezopasnosti-ot-prepodavatelej" target="_blank">https://geekbrains.ru/posts/podborka-knig-po-infobezopasnosti-ot-prepodavatelej
                                                     </a> </li>
                                             </ul>
                                         </div>
                                         <div class="col-5 text-center">
-                                            <img src="https://d2xzmw6cctk25h.cloudfront.net/geekbrains/public/ckeditor_assets/pictures/9469/retina-d89578fb6079ad7fdd98b061dd1bc825.png"
-                                                alt="Фото" class="img-fluid">
+                                            <img src="https://d2xzmw6cctk25h.cloudfront.net/geekbrains/public/ckeditor_assets/pictures/9469/retina-d89578fb6079ad7fdd98b061dd1bc825.png" alt="Фото" class="img-fluid">
                                         </div>
                                     </div>
                                 </div>
@@ -371,8 +328,7 @@
                 <div class="card-header">
                     <h3 class="card-title">Blue team</h3>
                     <div class="card-tools">
-                        <button type="button" class="btn btn-tool" data-card-widget="collapse" data-toggle="tooltip"
-                            title="Collapse">
+                        <button type="button" class="btn btn-tool" data-card-widget="collapse" data-toggle="tooltip" title="Collapse">
                             <i class="fas fa-plus"></i></button>
                     </div>
                 </div>
@@ -393,16 +349,12 @@
                                                 который можно использовать для анализа вредоносного ПО, но не поясняются
                                                 особенности работы в ОС Windows. </p>
                                             <ul class="ml-4 mb-0 fa-ul text-muted">
-                                                <li class="small"><span class="fa-li"><i
-                                                            class="fas fa-lg fa-file"></i></span> Источник: <a
-                                                        href="https://geekbrains.ru/posts/podborka-knig-po-infobezopasnosti-ot-prepodavatelej"
-                                                        target="_blank">https://geekbrains.ru/posts/podborka-knig-po-infobezopasnosti-ot-prepodavatelej
+                                                <li class="small"><span class="fa-li"><i class="fas fa-lg fa-file"></i></span> Источник: <a href="https://geekbrains.ru/posts/podborka-knig-po-infobezopasnosti-ot-prepodavatelej" target="_blank">https://geekbrains.ru/posts/podborka-knig-po-infobezopasnosti-ot-prepodavatelej
                                                     </a> </li>
                                             </ul>
                                         </div>
                                         <div class="col-5 text-center">
-                                            <img src="https://d2xzmw6cctk25h.cloudfront.net/geekbrains/public/ckeditor_assets/pictures/9463/retina-b93c0e9114ca0df08e50405a3bf70ec8.png"
-                                                alt="Фото" class="img-fluid">
+                                            <img src="https://d2xzmw6cctk25h.cloudfront.net/geekbrains/public/ckeditor_assets/pictures/9463/retina-b93c0e9114ca0df08e50405a3bf70ec8.png" alt="Фото" class="img-fluid">
                                         </div>
                                     </div>
                                 </div>
@@ -422,16 +374,12 @@
                                                 безопасности. Пригодится всем, кто планирует работать с технологией
                                                 контейнеров. </p>
                                             <ul class="ml-4 mb-0 fa-ul text-muted">
-                                                <li class="small"><span class="fa-li"><i
-                                                            class="fas fa-lg fa-file"></i></span> Источник: <a
-                                                        href="https://geekbrains.ru/posts/podborka-knig-po-infobezopasnosti-ot-prepodavatelej"
-                                                        target="_blank">https://geekbrains.ru/posts/podborka-knig-po-infobezopasnosti-ot-prepodavatelej
+                                                <li class="small"><span class="fa-li"><i class="fas fa-lg fa-file"></i></span> Источник: <a href="https://geekbrains.ru/posts/podborka-knig-po-infobezopasnosti-ot-prepodavatelej" target="_blank">https://geekbrains.ru/posts/podborka-knig-po-infobezopasnosti-ot-prepodavatelej
                                                     </a> </li>
                                             </ul>
                                         </div>
                                         <div class="col-5 text-center">
-                                            <img src="https://d2xzmw6cctk25h.cloudfront.net/geekbrains/public/ckeditor_assets/pictures/9480/retina-49aeb062e7a267af7ee15c450a557698.png"
-                                                alt="Фото" class="img-fluid">
+                                            <img src="https://d2xzmw6cctk25h.cloudfront.net/geekbrains/public/ckeditor_assets/pictures/9480/retina-49aeb062e7a267af7ee15c450a557698.png" alt="Фото" class="img-fluid">
                                         </div>
                                     </div>
                                 </div>
@@ -450,16 +398,12 @@
                                                 устроена Windows, это издание для вас. Особенно полезно будет в
                                                 сочетании с предыдущей книгой. </p>
                                             <ul class="ml-4 mb-0 fa-ul text-muted">
-                                                <li class="small"><span class="fa-li"><i
-                                                            class="fas fa-lg fa-file"></i></span> Источник: <a
-                                                        href="https://geekbrains.ru/posts/podborka-knig-po-infobezopasnosti-ot-prepodavatelej"
-                                                        target="_blank">https://geekbrains.ru/posts/podborka-knig-po-infobezopasnosti-ot-prepodavatelej
+                                                <li class="small"><span class="fa-li"><i class="fas fa-lg fa-file"></i></span> Источник: <a href="https://geekbrains.ru/posts/podborka-knig-po-infobezopasnosti-ot-prepodavatelej" target="_blank">https://geekbrains.ru/posts/podborka-knig-po-infobezopasnosti-ot-prepodavatelej
                                                     </a> </li>
                                             </ul>
                                         </div>
                                         <div class="col-5 text-center">
-                                            <img src="https://d2xzmw6cctk25h.cloudfront.net/geekbrains/public/ckeditor_assets/pictures/9456/retina-38e4f4bd191ad6709092a63537f9186f.png"
-                                                alt="Фото" class="img-fluid">
+                                            <img src="https://d2xzmw6cctk25h.cloudfront.net/geekbrains/public/ckeditor_assets/pictures/9456/retina-38e4f4bd191ad6709092a63537f9186f.png" alt="Фото" class="img-fluid">
                                         </div>
                                     </div>
                                 </div>
@@ -483,16 +427,12 @@
                                                 научитесь выявлять, оценивать и устранять уязвимости в вашем приложении.
                                             </p>
                                             <ul class="ml-4 mb-0 fa-ul text-muted">
-                                                <li class="small"><span class="fa-li"><i
-                                                            class="fas fa-lg fa-file"></i></span> Источник: <a
-                                                        href="https://geekbrains.ru/posts/podborka-knig-po-infobezopasnosti-ot-prepodavatelej"
-                                                        target="_blank">https://geekbrains.ru/posts/podborka-knig-po-infobezopasnosti-ot-prepodavatelej
+                                                <li class="small"><span class="fa-li"><i class="fas fa-lg fa-file"></i></span> Источник: <a href="https://geekbrains.ru/posts/podborka-knig-po-infobezopasnosti-ot-prepodavatelej" target="_blank">https://geekbrains.ru/posts/podborka-knig-po-infobezopasnosti-ot-prepodavatelej
                                                     </a> </li>
                                             </ul>
                                         </div>
                                         <div class="col-5 text-center">
-                                            <img src="https://d2xzmw6cctk25h.cloudfront.net/geekbrains/public/ckeditor_assets/pictures/9467/retina-8da6de0933863a06f1382b1d5da80196.png"
-                                                alt="Фото" class="img-fluid">
+                                            <img src="https://d2xzmw6cctk25h.cloudfront.net/geekbrains/public/ckeditor_assets/pictures/9467/retina-8da6de0933863a06f1382b1d5da80196.png" alt="Фото" class="img-fluid">
                                         </div>
                                     </div>
                                 </div>
@@ -512,16 +452,12 @@
                                                 руководства вы изучите ряд инструментов и методов безопасности,
                                                 специально адаптированных для интеграции с гибкой разработкой. </p>
                                             <ul class="ml-4 mb-0 fa-ul text-muted">
-                                                <li class="small"><span class="fa-li"><i
-                                                            class="fas fa-lg fa-file"></i></span> Источник: <a
-                                                        href="https://geekbrains.ru/posts/podborka-knig-po-infobezopasnosti-ot-prepodavatelej"
-                                                        target="_blank">https://geekbrains.ru/posts/podborka-knig-po-infobezopasnosti-ot-prepodavatelej
+                                                <li class="small"><span class="fa-li"><i class="fas fa-lg fa-file"></i></span> Источник: <a href="https://geekbrains.ru/posts/podborka-knig-po-infobezopasnosti-ot-prepodavatelej" target="_blank">https://geekbrains.ru/posts/podborka-knig-po-infobezopasnosti-ot-prepodavatelej
                                                     </a> </li>
                                             </ul>
                                         </div>
                                         <div class="col-5 text-center">
-                                            <img src="https://d2xzmw6cctk25h.cloudfront.net/geekbrains/public/ckeditor_assets/pictures/9457/retina-f371af5ed669d47805d8eee6315001d1.png"
-                                                alt="Фото" class="img-fluid">
+                                            <img src="https://d2xzmw6cctk25h.cloudfront.net/geekbrains/public/ckeditor_assets/pictures/9457/retina-f371af5ed669d47805d8eee6315001d1.png" alt="Фото" class="img-fluid">
                                         </div>
                                     </div>
                                 </div>
@@ -541,16 +477,12 @@
                                                 собирается заниматься сетями и строить сетевые схемы на предприятии.
                                             </p>
                                             <ul class="ml-4 mb-0 fa-ul text-muted">
-                                                <li class="small"><span class="fa-li"><i
-                                                            class="fas fa-lg fa-file"></i></span> Источник: <a
-                                                        href="https://geekbrains.ru/posts/podborka-knig-po-infobezopasnosti-ot-prepodavatelej"
-                                                        target="_blank">https://geekbrains.ru/posts/podborka-knig-po-infobezopasnosti-ot-prepodavatelej
+                                                <li class="small"><span class="fa-li"><i class="fas fa-lg fa-file"></i></span> Источник: <a href="https://geekbrains.ru/posts/podborka-knig-po-infobezopasnosti-ot-prepodavatelej" target="_blank">https://geekbrains.ru/posts/podborka-knig-po-infobezopasnosti-ot-prepodavatelej
                                                     </a> </li>
                                             </ul>
                                         </div>
                                         <div class="col-5 text-center">
-                                            <img src="https://d2xzmw6cctk25h.cloudfront.net/geekbrains/public/ckeditor_assets/pictures/9460/retina-be3f7d7923d6a0e5680b1ec7ca97ea74.png"
-                                                alt="Фото" class="img-fluid">
+                                            <img src="https://d2xzmw6cctk25h.cloudfront.net/geekbrains/public/ckeditor_assets/pictures/9460/retina-be3f7d7923d6a0e5680b1ec7ca97ea74.png" alt="Фото" class="img-fluid">
                                         </div>
                                     </div>
                                 </div>
@@ -576,16 +508,12 @@
                                                 администраторов, аналитиков сетевого трафика, а также всех, кто хочет
                                                 понять принципы безопасной работы в сети. </p>
                                             <ul class="ml-4 mb-0 fa-ul text-muted">
-                                                <li class="small"><span class="fa-li"><i
-                                                            class="fas fa-lg fa-file"></i></span> Источник: <a
-                                                        href="https://geekbrains.ru/posts/podborka-knig-po-infobezopasnosti-ot-prepodavatelej"
-                                                        target="_blank">https://geekbrains.ru/posts/podborka-knig-po-infobezopasnosti-ot-prepodavatelej
+                                                <li class="small"><span class="fa-li"><i class="fas fa-lg fa-file"></i></span> Источник: <a href="https://geekbrains.ru/posts/podborka-knig-po-infobezopasnosti-ot-prepodavatelej" target="_blank">https://geekbrains.ru/posts/podborka-knig-po-infobezopasnosti-ot-prepodavatelej
                                                     </a> </li>
                                             </ul>
                                         </div>
                                         <div class="col-5 text-center">
-                                            <img src="https://d2xzmw6cctk25h.cloudfront.net/geekbrains/public/ckeditor_assets/pictures/9459/retina-b7ffcd3eb43c2a275044da4907ae1ba1.jpg"
-                                                alt="Фото" class="img-fluid">
+                                            <img src="https://d2xzmw6cctk25h.cloudfront.net/geekbrains/public/ckeditor_assets/pictures/9459/retina-b7ffcd3eb43c2a275044da4907ae1ba1.jpg" alt="Фото" class="img-fluid">
                                         </div>
                                     </div>
                                 </div>
@@ -600,8 +528,7 @@
                 <div class="card-header">
                     <h3 class="card-title">Purple team</h3>
                     <div class="card-tools">
-                        <button type="button" class="btn btn-tool" data-card-widget="collapse" data-toggle="tooltip"
-                            title="Collapse">
+                        <button type="button" class="btn btn-tool" data-card-widget="collapse" data-toggle="tooltip" title="Collapse">
                             <i class="fas fa-plus"></i></button>
                     </div>
                 </div>
@@ -622,16 +549,12 @@
                                                 Kali Linux и тренировочных сред, а также ряд методов тестирования на
                                                 проникновение. Подойдёт начинающим. </p>
                                             <ul class="ml-4 mb-0 fa-ul text-muted">
-                                                <li class="small"><span class="fa-li"><i
-                                                            class="fas fa-lg fa-file"></i></span> Источник: <a
-                                                        href="https://geekbrains.ru/posts/podborka-knig-po-infobezopasnosti-ot-prepodavatelej"
-                                                        target="_blank">https://geekbrains.ru/posts/podborka-knig-po-infobezopasnosti-ot-prepodavatelej
+                                                <li class="small"><span class="fa-li"><i class="fas fa-lg fa-file"></i></span> Источник: <a href="https://geekbrains.ru/posts/podborka-knig-po-infobezopasnosti-ot-prepodavatelej" target="_blank">https://geekbrains.ru/posts/podborka-knig-po-infobezopasnosti-ot-prepodavatelej
                                                     </a> </li>
                                             </ul>
                                         </div>
                                         <div class="col-5 text-center">
-                                            <img src="https://d2xzmw6cctk25h.cloudfront.net/geekbrains/public/ckeditor_assets/pictures/9468/retina-5468c37f1c65745b4dc2358acd0f0ace.png"
-                                                alt="Фото" class="img-fluid">
+                                            <img src="https://d2xzmw6cctk25h.cloudfront.net/geekbrains/public/ckeditor_assets/pictures/9468/retina-5468c37f1c65745b4dc2358acd0f0ace.png" alt="Фото" class="img-fluid">
                                         </div>
                                     </div>
                                 </div>
@@ -650,16 +573,12 @@
                                                 введение в вопросы ИБ с точки зрения атакующего, здесь всего понемногу.
                                                 Рекомендуем тем, кто знакомится с профессией. </p>
                                             <ul class="ml-4 mb-0 fa-ul text-muted">
-                                                <li class="small"><span class="fa-li"><i
-                                                            class="fas fa-lg fa-file"></i></span> Источник: <a
-                                                        href="https://geekbrains.ru/posts/podborka-knig-po-infobezopasnosti-ot-prepodavatelej"
-                                                        target="_blank">https://geekbrains.ru/posts/podborka-knig-po-infobezopasnosti-ot-prepodavatelej
+                                                <li class="small"><span class="fa-li"><i class="fas fa-lg fa-file"></i></span> Источник: <a href="https://geekbrains.ru/posts/podborka-knig-po-infobezopasnosti-ot-prepodavatelej" target="_blank">https://geekbrains.ru/posts/podborka-knig-po-infobezopasnosti-ot-prepodavatelej
                                                     </a> </li>
                                             </ul>
                                         </div>
                                         <div class="col-5 text-center">
-                                            <img src="https://d2xzmw6cctk25h.cloudfront.net/geekbrains/public/ckeditor_assets/pictures/9473/retina-c0703cf934a220ddba7845ba9a85b929.png"
-                                                alt="Фото" class="img-fluid">
+                                            <img src="https://d2xzmw6cctk25h.cloudfront.net/geekbrains/public/ckeditor_assets/pictures/9473/retina-c0703cf934a220ddba7845ba9a85b929.png" alt="Фото" class="img-fluid">
                                         </div>
                                     </div>
                                 </div>
@@ -678,16 +597,12 @@
                                                 проводятся атаки и как их обнаруживать. Это полезно, чтобы понимать,
                                                 какие процессы происходят в системе при взломе. </p>
                                             <ul class="ml-4 mb-0 fa-ul text-muted">
-                                                <li class="small"><span class="fa-li"><i
-                                                            class="fas fa-lg fa-file"></i></span> Источник: <a
-                                                        href="https://geekbrains.ru/posts/podborka-knig-po-infobezopasnosti-ot-prepodavatelej"
-                                                        target="_blank">https://geekbrains.ru/posts/podborka-knig-po-infobezopasnosti-ot-prepodavatelej
+                                                <li class="small"><span class="fa-li"><i class="fas fa-lg fa-file"></i></span> Источник: <a href="https://geekbrains.ru/posts/podborka-knig-po-infobezopasnosti-ot-prepodavatelej" target="_blank">https://geekbrains.ru/posts/podborka-knig-po-infobezopasnosti-ot-prepodavatelej
                                                     </a> </li>
                                             </ul>
                                         </div>
                                         <div class="col-5 text-center">
-                                            <img src="https://d2xzmw6cctk25h.cloudfront.net/geekbrains/public/ckeditor_assets/pictures/9471/retina-cdfbc1bc5c2879ac80d10e0f82cbd690.png"
-                                                alt="Фото" class="img-fluid">
+                                            <img src="https://d2xzmw6cctk25h.cloudfront.net/geekbrains/public/ckeditor_assets/pictures/9471/retina-cdfbc1bc5c2879ac80d10e0f82cbd690.png" alt="Фото" class="img-fluid">
                                         </div>
                                     </div>
                                 </div>
@@ -702,8 +617,7 @@
                 <div class="card-header">
                     <h3 class="card-title">Криптография</h3>
                     <div class="card-tools">
-                        <button type="button" class="btn btn-tool" data-card-widget="collapse" data-toggle="tooltip"
-                            title="Collapse">
+                        <button type="button" class="btn btn-tool" data-card-widget="collapse" data-toggle="tooltip" title="Collapse">
                             <i class="fas fa-plus"></i></button>
                     </div>
                 </div>
@@ -724,16 +638,12 @@
                                                 помогает понять процессы, которые происходят в рамках криптографической
                                                 защиты информации. </p>
                                             <ul class="ml-4 mb-0 fa-ul text-muted">
-                                                <li class="small"><span class="fa-li"><i
-                                                            class="fas fa-lg fa-file"></i></span> Источник: <a
-                                                        href="https://geekbrains.ru/posts/podborka-knig-po-infobezopasnosti-ot-prepodavatelej"
-                                                        target="_blank">https://geekbrains.ru/posts/podborka-knig-po-infobezopasnosti-ot-prepodavatelej
+                                                <li class="small"><span class="fa-li"><i class="fas fa-lg fa-file"></i></span> Источник: <a href="https://geekbrains.ru/posts/podborka-knig-po-infobezopasnosti-ot-prepodavatelej" target="_blank">https://geekbrains.ru/posts/podborka-knig-po-infobezopasnosti-ot-prepodavatelej
                                                     </a> </li>
                                             </ul>
                                         </div>
                                         <div class="col-5 text-center">
-                                            <img src="https://d2xzmw6cctk25h.cloudfront.net/geekbrains/public/ckeditor_assets/pictures/9476/retina-dfee38ed7de844e0a894585c5c7186dd.png"
-                                                alt="Фото" class="img-fluid">
+                                            <img src="https://d2xzmw6cctk25h.cloudfront.net/geekbrains/public/ckeditor_assets/pictures/9476/retina-dfee38ed7de844e0a894585c5c7186dd.png" alt="Фото" class="img-fluid">
                                         </div>
                                     </div>
                                 </div>

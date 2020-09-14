@@ -12,9 +12,7 @@
     <!-- Main content -->
     <div class="content">
         <div class="container-fluid">
-            <iframe
-                src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=2&amp;bgcolor=%23ffffff&amp;ctz=Europe%2FMoscow&amp;src=dGMxaG4zN2xwODhmZTRyZ2xzbzlxYnI5cTRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23F4511E&amp;showTitle=0&amp;showCalendars=0"
-                style="border:solid 1px #777" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
+            <iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=2&amp;bgcolor=%23ffffff&amp;ctz=Europe%2FMoscow&amp;src=dGMxaG4zN2xwODhmZTRyZ2xzbzlxYnI5cTRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23F4511E&amp;showTitle=0&amp;showCalendars=0" style="border:solid 1px #777" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
         </div><!-- /.container-fluid -->
     </div>
     <!-- /.content -->

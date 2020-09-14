@@ -14,7 +14,6 @@
     <!-- Main content -->
     <div class="content">
         <div class="container-fluid">
-
             <div class="card">
                 <div class="card-body p-0">
                     <table class="table table-striped projects">
@@ -54,12 +53,10 @@
                                     </small>
                                 </td>
                                 <td>
-
                                 </td>
                                 <td class="project_progress">
                                     <div class="progress progress-sm">
-                                        <div class="progress-bar bg-green" role="progressbar" aria-volumenow="77"
-                                            aria-volumemin="0" aria-volumemax="100" style="width: 77%">
+                                        <div class="progress-bar bg-green" role="progressbar" aria-volumenow="77" aria-volumemin="0" aria-volumemax="100" style="width: 77%">
                                         </div>
                                     </div>
                                     <small>
@@ -91,12 +88,10 @@
                                     </small>
                                 </td>
                                 <td>
-
                                 </td>
                                 <td class="project_progress">
                                     <div class="progress progress-sm">
-                                        <div class="progress-bar bg-green" role="progressbar" aria-volumenow="77"
-                                            aria-volumemin="0" aria-volumemax="100" style="width: 77%">
+                                        <div class="progress-bar bg-green" role="progressbar" aria-volumenow="77" aria-volumemin="0" aria-volumemax="100" style="width: 77%">
                                         </div>
                                     </div>
                                     <small>

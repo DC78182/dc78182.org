@@ -12,33 +12,33 @@
     </div>
     <!-- /.content-header -->
     <script>
-    $(document).ready(function() {
-        $("#btn").click(
-            function() {
-                sendAjaxForm('result_form', 'ajax_form', 'pages/report.php');
-                return false;
-            }
-        );
-    });
-
-    function sendAjaxForm(result_form, ajax_form, url) {
-        $.ajax({
-            url: url,
-            type: "POST",
-            dataType: "html",
-            data: $("#" + ajax_form).serialize(),
-            success: function(response) {
-                $('#result_form').html(
-                    '<div class="alert alert-success alert-dismissible"><button type="button" class="close" data-dismiss="alert" aria-hidden="true">×</button><h5><i class="icon fas fa-check"></i> Успешно!</h5>Ваше сообщение отправлено на рассмотрение.</div>'
-                );
-            },
-            error: function(response) {
-                $('#result_form').html(
-                    '<div class="alert alert-danger alert-dismissible"><button type="button" class="close" data-dismiss="alert" aria-hidden="true">×</button><h5><i class="icon fas fa-ban"></i> Ошибка!</h5>Произошла ошибка во время отправки данных!</div>'
-                );
-            }
+        $(document).ready(function() {
+            $("#btn").click(
+                function() {
+                    sendAjaxForm('result_form', 'ajax_form', 'pages/report.php');
+                    return false;
+                }
+            );
         });
-    }
+
+        function sendAjaxForm(result_form, ajax_form, url) {
+            $.ajax({
+                url: url,
+                type: "POST",
+                dataType: "html",
+                data: $("#" + ajax_form).serialize(),
+                success: function(response) {
+                    $('#result_form').html(
+                        '<div class="alert alert-success alert-dismissible"><button type="button" class="close" data-dismiss="alert" aria-hidden="true">×</button><h5><i class="icon fas fa-check"></i> Успешно!</h5>Ваше сообщение отправлено на рассмотрение.</div>'
+                    );
+                },
+                error: function(response) {
+                    $('#result_form').html(
+                        '<div class="alert alert-danger alert-dismissible"><button type="button" class="close" data-dismiss="alert" aria-hidden="true">×</button><h5><i class="icon fas fa-ban"></i> Ошибка!</h5>Произошла ошибка во время отправки данных!</div>'
+                    );
+                }
+            });
+        }
     </script>
     <!-- Main content -->
     <div class="content">
