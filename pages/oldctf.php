@@ -14,22 +14,20 @@
     <!-- Main content -->
     <div class="content">
         <div class="container-fluid">
-            <div class="row">
-                <!-- The timeline -->
-                <div class="timeline timeline-inverse">
-                    <!-- timeline item -->
-                    <div>
-                        <i class="fas fa-user bg-info"></i>
-                        <div class="timeline-item">
-                            <h3 class="timeline-header border-0">
-                                Coming soon!
-                            </h3>
-                        </div>
+            <!-- The timeline -->
+            <div class="timeline timeline-inverse">
+                <!-- timeline item -->
+                <div>
+                    <i class="fas fa-user bg-info"></i>
+                    <div class="timeline-item">
+                        <h3 class="timeline-header border-0">
+                            Coming soon!
+                        </h3>
                     </div>
-                    <!-- END timeline item -->
-                    <div>
-                        <i class="far fa-clock bg-gray"></i>
-                    </div>
+                </div>
+                <!-- END timeline item -->
+                <div>
+                    <i class="far fa-clock bg-gray"></i>
                 </div>
             </div>
             <!-- /.row -->

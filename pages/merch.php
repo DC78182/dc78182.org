@@ -14,55 +14,55 @@
     <!-- Main content -->
     <div class="content">
         <div class="container-fluid">
-            <div class="row">
-                <div class="col-12">
-                    <div class="card card-primary">
-                        <div class="card-header">
-                            <h3 class="card-title">Футболки</h3>
-                        </div>
-                        <!-- /.card-header -->
-                        <div class="card-body">
-                            <div class="row">
-                                <div class="col-sm-4">
-                                    <a href="#">
-                                        <img class="img-fluid" src="https://placehold.it/800x400/FFE4B5/ffffff&amp;text=Coming+soon!" alt="User profile picture">
-                                    </a>
-                                </div>
-                                <div class="col-sm-4">
-                                    <a href="#">
-                                        <img class="img-fluid" src="https://placehold.it/800x400/FFE4B5/ffffff&amp;text=Coming+soon!" alt="User profile picture">
-                                    </a>
-                                </div>
-                                <div class="col-sm-4">
-                                    <a href="#">
-                                        <img class="img-fluid" src="https://placehold.it/800x400/FFE4B5/ffffff&amp;text=Coming+soon!" alt="User profile picture">
-                                    </a>
-                                </div>
-                            </div>
-                            <div class="row mt-4">
-                                <div class=" col-sm-4">
-                                    <a href="#">
-                                        <img class="img-fluid" src="https://placehold.it/800x400/FFE4B5/ffffff&amp;text=Coming+soon!" alt="User profile picture">
-                                    </a>
-                                </div>
-                                <div class="col-sm-4">
-                                    <a href="#">
-                                        <img class="img-fluid" src="https://placehold.it/800x400/FFE4B5/ffffff&amp;text=Coming+soon!" alt="User profile picture">
-                                    </a>
-                                </div>
-                                <div class="col-sm-4">
-                                    <a href="#">
-                                        <img class="img-fluid" src="https://placehold.it/800x400/FFE4B5/ffffff&amp;text=Coming+soon!" alt="User profile picture">
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- /.card-body -->
+
+            <div class="col-12">
+                <div class="card card-primary">
+                    <div class="card-header">
+                        <h3 class="card-title">Футболки</h3>
                     </div>
-                    <!-- /.card -->
+                    <!-- /.card-header -->
+                    <div class="card-body">
+                        <div class="row">
+                            <div class="col-sm-4">
+                                <a href="#">
+                                    <img class="img-fluid" src="https://placehold.it/800x400/FFE4B5/ffffff&amp;text=Coming+soon!" alt="User profile picture">
+                                </a>
+                            </div>
+                            <div class="col-sm-4">
+                                <a href="#">
+                                    <img class="img-fluid" src="https://placehold.it/800x400/FFE4B5/ffffff&amp;text=Coming+soon!" alt="User profile picture">
+                                </a>
+                            </div>
+                            <div class="col-sm-4">
+                                <a href="#">
+                                    <img class="img-fluid" src="https://placehold.it/800x400/FFE4B5/ffffff&amp;text=Coming+soon!" alt="User profile picture">
+                                </a>
+                            </div>
+                        </div>
+                        <div class="row mt-4">
+                            <div class=" col-sm-4">
+                                <a href="#">
+                                    <img class="img-fluid" src="https://placehold.it/800x400/FFE4B5/ffffff&amp;text=Coming+soon!" alt="User profile picture">
+                                </a>
+                            </div>
+                            <div class="col-sm-4">
+                                <a href="#">
+                                    <img class="img-fluid" src="https://placehold.it/800x400/FFE4B5/ffffff&amp;text=Coming+soon!" alt="User profile picture">
+                                </a>
+                            </div>
+                            <div class="col-sm-4">
+                                <a href="#">
+                                    <img class="img-fluid" src="https://placehold.it/800x400/FFE4B5/ffffff&amp;text=Coming+soon!" alt="User profile picture">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /.card-body -->
                 </div>
-                <!-- /.col -->
+                <!-- /.card -->
             </div>
+            <!-- /.col -->
+
         </div><!-- /.container-fluid -->
     </div>
     <!-- /.content -->
