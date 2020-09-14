@@ -11,7 +11,6 @@
         </div><!-- /.container-fluid -->
     </div>
     <!-- /.content-header -->
-
     <!-- Main content -->
     <div class="content">
         <div class="container-fluid">
@@ -21,7 +20,6 @@
                     <!-- timeline item -->
                     <div>
                         <i class="fas fa-user bg-info"></i>
-
                         <div class="timeline-item">
                             <h3 class="timeline-header border-0">
                                 Coming soon!
@@ -33,8 +31,6 @@
                         <i class="far fa-clock bg-gray"></i>
                     </div>
                 </div>
-
-
             </div>
             <!-- /.row -->
         </div><!-- /.container-fluid -->
@@ -42,4 +38,3 @@
     <!-- /.content -->
 </div>
 <!-- /.content-wrapper -->
-  

@@ -11,14 +11,12 @@
         </div><!-- /.container-fluid -->
     </div>
     <!-- /.content-header -->
-
     <!-- Main content -->
     <div class="content">
         <div class="container-fluid">
-			<img  class="img-fluid" src="../imgs/mapDC78182.png">
+            <img class="img-fluid" src="../imgs/mapDC78182.png">
         </div><!-- /.container-fluid -->
     </div>
     <!-- /.content -->
 </div>
 <!-- /.content-wrapper -->
-  

@@ -11,92 +11,90 @@
         </div><!-- /.container-fluid -->
     </div>
     <!-- /.content-header -->
-
     <!-- Main content -->
     <div class="content">
         <div class="container-fluid">
             <div class="row">
-          <div class="col-md-6">
-            <div class="card">
-              <div class="card-header">
-                <h3 class="card-title">
-                  <i class="fas fa-question"></i>
-                  Вопрос
-                </h3>
-              </div>
-              <!-- /.card-header -->
-              <div class="card-body">
-                <blockquote>
-                  Ответ
-                </blockquote>
-              </div>
-              <!-- /.card-body -->
+                <div class="col-md-6">
+                    <div class="card">
+                        <div class="card-header">
+                            <h3 class="card-title">
+                                <i class="fas fa-question"></i>
+                                Вопрос
+                            </h3>
+                        </div>
+                        <!-- /.card-header -->
+                        <div class="card-body">
+                            <blockquote>
+                                Ответ
+                            </blockquote>
+                        </div>
+                        <!-- /.card-body -->
+                    </div>
+                    <!-- /.card -->
+                </div>
+                <!-- ./col -->
+                <div class="col-md-6">
+                    <div class="card">
+                        <div class="card-header">
+                            <h3 class="card-title">
+                                <i class="fas fa-question"></i>
+                                Вопрос
+                            </h3>
+                        </div>
+                        <!-- /.card-header -->
+                        <div class="card-body">
+                            <blockquote>
+                                Ответ
+                            </blockquote>
+                        </div>
+                        <!-- /.card-body -->
+                    </div>
+                    <!-- /.card -->
+                </div>
+                <!-- ./col -->
+                <div class="col-md-6">
+                    <div class="card">
+                        <div class="card-header">
+                            <h3 class="card-title">
+                                <i class="fas fa-question"></i>
+                                Вопрос
+                            </h3>
+                        </div>
+                        <!-- /.card-header -->
+                        <div class="card-body">
+                            <blockquote>
+                                Ответ
+                            </blockquote>
+                        </div>
+                        <!-- /.card-body -->
+                    </div>
+                    <!-- /.card -->
+                </div>
+                <!-- ./col -->
+                <div class="col-md-6">
+                    <div class="card">
+                        <div class="card-header">
+                            <h3 class="card-title">
+                                <i class="fas fa-question"></i>
+                                Вопрос
+                            </h3>
+                        </div>
+                        <!-- /.card-header -->
+                        <div class="card-body">
+                            <blockquote>
+                                Ответ
+                            </blockquote>
+                        </div>
+                        <!-- /.card-body -->
+                    </div>
+                    <!-- /.card -->
+                </div>
+                <!-- ./col -->
             </div>
-            <!-- /.card -->
-          </div>
-          <!-- ./col -->
-          <div class="col-md-6">
-            <div class="card">
-              <div class="card-header">
-                <h3 class="card-title">
-                  <i class="fas fa-question"></i>
-                  Вопрос
-                </h3>
-              </div>
-              <!-- /.card-header -->
-              <div class="card-body">
-                <blockquote>
-                  Ответ
-                </blockquote>
-              </div>
-              <!-- /.card-body -->
-            </div>
-            <!-- /.card -->
-          </div>
-          <!-- ./col -->
-          <div class="col-md-6">
-            <div class="card">
-              <div class="card-header">
-                <h3 class="card-title">
-                  <i class="fas fa-question"></i>
-                  Вопрос
-                </h3>
-              </div>
-              <!-- /.card-header -->
-              <div class="card-body">
-                <blockquote>
-                  Ответ
-                </blockquote>
-              </div>
-              <!-- /.card-body -->
-            </div>
-            <!-- /.card -->
-          </div>
-          <!-- ./col -->
-          <div class="col-md-6">
-            <div class="card">
-              <div class="card-header">
-                <h3 class="card-title">
-                  <i class="fas fa-question"></i>
-                  Вопрос
-                </h3>
-              </div>
-              <!-- /.card-header -->
-              <div class="card-body">
-                <blockquote>
-                  Ответ
-                </blockquote>
-              </div>
-              <!-- /.card-body -->
-            </div>
-            <!-- /.card -->
-          </div>
-          <!-- ./col -->
-        </div>
             <!-- /.row -->
         </div><!-- /.container-fluid -->
     </div>
     <!-- /.content -->
 </div>
 <!-- /.content-wrapper -->
-  

@@ -7,30 +7,20 @@
                 <div class="col-sm-6">
                     <h1 class="m-0 text-dark">Встречи DC78182</h1>
                 </div><!-- /.col -->
-				<!--
-                <div class="col-sm-6">
-                    <ol class="breadcrumb float-sm-right">
-                        <li class="breadcrumb-item"><a href="#">Home</a></li>
-                        <li class="breadcrumb-item active">Встречи DC78182</li>
-                    </ol>
-                </div><!-- /.col -- >
-				-->
             </div><!-- /.row -->
         </div><!-- /.container-fluid -->
     </div>
     <!-- /.content-header -->
-
     <!-- Main content -->
     <div class="content">
         <div class="container-fluid">
             <div class="row">
-
                 <!-- The timeline -->
                 <div class="timeline timeline-inverse">
                     <!-- timeline time label -->
                     <div class="time-label">
                         <span class="bg-info">
-                          19 сентября 2020 г.
+                            19 сентября 2020 г.
                         </span>
                     </div>
                     <!-- /.timeline-label -->
@@ -39,7 +29,7 @@
                         <i class="fas fa-comments bg-primary"></i>
                         <div class="timeline-item">
                             <div class="timeline-body">
-OSINT. Что такое, для чего нужно, как применяется
+                                OSINT. Что такое, для чего нужно, как применяется
                             </div>
                         </div>
                     </div>
@@ -47,7 +37,7 @@ OSINT. Что такое, для чего нужно, как применяет�
                     <!-- timeline time label -->
                     <div class="time-label">
                         <span class="bg-info">
-                          3 октября 2020 г.
+                            3 октября 2020 г.
                         </span>
                     </div>
                     <!-- /.timeline-label -->
@@ -56,40 +46,23 @@ OSINT. Что такое, для чего нужно, как применяет�
                         <i class="fas fa-comments bg-primary"></i>
                         <div class="timeline-item">
                             <div class="timeline-body">
-OSINT. Инструменты
+                                OSINT. Инструменты
                             </div>
                         </div>
                     </div>
                     <!-- END timeline item -->
                     <!-- timeline item -->
-					<div>
-						<i class="fas fa-flag-checkered bg-danger"></i>
-						<div class="timeline-item">
-							<h3 class="timeline-header no-border"><a href="#">CTF</a></h3>
-						</div>
-					</div>
-                    <!-- END timeline item -->
-                    <!-- timeline time label -->
-                    <div class="time-label">
-                        <span class="bg-info">
-                          17 октября 2020 г.
-                        </span>
-                    </div>
-                    <!-- /.timeline-label -->
-                    <!-- timeline item -->
                     <div>
-                        <i class="fas fa-comments bg-primary"></i>
+                        <i class="fas fa-flag-checkered bg-danger"></i>
                         <div class="timeline-item">
-                            <div class="timeline-body">
-ОСИ. Анонимоность: как вычисляются посетители на сайте, как не спалиться
-                            </div>
+                            <h3 class="timeline-header no-border"><a href="#">CTF</a></h3>
                         </div>
                     </div>
                     <!-- END timeline item -->
                     <!-- timeline time label -->
                     <div class="time-label">
                         <span class="bg-info">
-                          31 октября 2020 г.
+                            17 октября 2020 г.
                         </span>
                     </div>
                     <!-- /.timeline-label -->
@@ -98,7 +71,7 @@ OSINT. Инструменты
                         <i class="fas fa-comments bg-primary"></i>
                         <div class="timeline-item">
                             <div class="timeline-body">
-Домашние средства защиты, что защищать нужно, уязвимые ресурсы, умные вещи
+                                ОСИ. Анонимоность: как вычисляются посетители на сайте, как не спалиться
                             </div>
                         </div>
                     </div>
@@ -106,7 +79,7 @@ OSINT. Инструменты
                     <!-- timeline time label -->
                     <div class="time-label">
                         <span class="bg-info">
-                          14 ноября 2020 г.
+                            31 октября 2020 г.
                         </span>
                     </div>
                     <!-- /.timeline-label -->
@@ -115,7 +88,7 @@ OSINT. Инструменты
                         <i class="fas fa-comments bg-primary"></i>
                         <div class="timeline-item">
                             <div class="timeline-body">
-Домашние средства защиты, Инструменты защиты, как защищаем
+                                Домашние средства защиты, что защищать нужно, уязвимые ресурсы, умные вещи
                             </div>
                         </div>
                     </div>
@@ -123,7 +96,7 @@ OSINT. Инструменты
                     <!-- timeline time label -->
                     <div class="time-label">
                         <span class="bg-info">
-                          28 ноября 2020 г.
+                            14 ноября 2020 г.
                         </span>
                     </div>
                     <!-- /.timeline-label -->
@@ -132,7 +105,7 @@ OSINT. Инструменты
                         <i class="fas fa-comments bg-primary"></i>
                         <div class="timeline-item">
                             <div class="timeline-body">
-Форензика. Для чего нужна как применяется
+                                Домашние средства защиты, Инструменты защиты, как защищаем
                             </div>
                         </div>
                     </div>
@@ -140,7 +113,7 @@ OSINT. Инструменты
                     <!-- timeline time label -->
                     <div class="time-label">
                         <span class="bg-info">
-                          12 декабря 2020 г.
+                            28 ноября 2020 г.
                         </span>
                     </div>
                     <!-- /.timeline-label -->
@@ -149,32 +122,7 @@ OSINT. Инструменты
                         <i class="fas fa-comments bg-primary"></i>
                         <div class="timeline-item">
                             <div class="timeline-body">
-Форензика. Методы и способы
-                            </div>
-                        </div>
-                    </div>
-                    <!-- END timeline item -->
-                    <!-- timeline item -->
-					<div>
-						<i class="fas fa-flag-checkered bg-danger"></i>
-						<div class="timeline-item">
-							<h3 class="timeline-header no-border"><a href="#">CTF</a></h3>
-						</div>
-					</div>
-                    <!-- END timeline item -->
-                    <!-- timeline time label -->
-                    <div class="time-label">
-                        <span class="bg-info">
-                          26 декабря 2020 г.
-                        </span>
-                    </div>
-                    <!-- /.timeline-label -->
-                    <!-- timeline item -->
-                    <div>
-                        <i class="fas fa-comments bg-primary"></i>
-                        <div class="timeline-item">
-                            <div class="timeline-body">
-Социнженерия. Что такое, для чего нужно, как применяется
+                                Форензика. Для чего нужна как применяется
                             </div>
                         </div>
                     </div>
@@ -182,7 +130,7 @@ OSINT. Инструменты
                     <!-- timeline time label -->
                     <div class="time-label">
                         <span class="bg-info">
-                          9 января 2021 г.
+                            12 декабря 2020 г.
                         </span>
                     </div>
                     <!-- /.timeline-label -->
@@ -191,7 +139,32 @@ OSINT. Инструменты
                         <i class="fas fa-comments bg-primary"></i>
                         <div class="timeline-item">
                             <div class="timeline-body">
-Социнженерия. Кейсы, как избежать
+                                Форензика. Методы и способы
+                            </div>
+                        </div>
+                    </div>
+                    <!-- END timeline item -->
+                    <!-- timeline item -->
+                    <div>
+                        <i class="fas fa-flag-checkered bg-danger"></i>
+                        <div class="timeline-item">
+                            <h3 class="timeline-header no-border"><a href="#">CTF</a></h3>
+                        </div>
+                    </div>
+                    <!-- END timeline item -->
+                    <!-- timeline time label -->
+                    <div class="time-label">
+                        <span class="bg-info">
+                            26 декабря 2020 г.
+                        </span>
+                    </div>
+                    <!-- /.timeline-label -->
+                    <!-- timeline item -->
+                    <div>
+                        <i class="fas fa-comments bg-primary"></i>
+                        <div class="timeline-item">
+                            <div class="timeline-body">
+                                Социнженерия. Что такое, для чего нужно, как применяется
                             </div>
                         </div>
                     </div>
@@ -199,7 +172,7 @@ OSINT. Инструменты
                     <!-- timeline time label -->
                     <div class="time-label">
                         <span class="bg-info">
-                          23 января 2021 г.
+                            9 января 2021 г.
                         </span>
                     </div>
                     <!-- /.timeline-label -->
@@ -208,7 +181,7 @@ OSINT. Инструменты
                         <i class="fas fa-comments bg-primary"></i>
                         <div class="timeline-item">
                             <div class="timeline-body">
-Анализ уязвимостей
+                                Социнженерия. Кейсы, как избежать
                             </div>
                         </div>
                     </div>
@@ -216,7 +189,7 @@ OSINT. Инструменты
                     <!-- timeline time label -->
                     <div class="time-label">
                         <span class="bg-info">
-                          6 февраля 2021 г.
+                            23 января 2021 г.
                         </span>
                     </div>
                     <!-- /.timeline-label -->
@@ -225,7 +198,7 @@ OSINT. Инструменты
                         <i class="fas fa-comments bg-primary"></i>
                         <div class="timeline-item">
                             <div class="timeline-body">
-Эксплуатация уязвимостей
+                                Анализ уязвимостей
                             </div>
                         </div>
                     </div>
@@ -233,7 +206,7 @@ OSINT. Инструменты
                     <!-- timeline time label -->
                     <div class="time-label">
                         <span class="bg-info">
-                          20 февраля 2021 г.
+                            6 февраля 2021 г.
                         </span>
                     </div>
                     <!-- /.timeline-label -->
@@ -242,32 +215,7 @@ OSINT. Инструменты
                         <i class="fas fa-comments bg-primary"></i>
                         <div class="timeline-item">
                             <div class="timeline-body">
-Пентест
-                            </div>
-                        </div>
-                    </div>
-                    <!-- END timeline item -->
-                    <!-- timeline item -->
-					<div>
-						<i class="fas fa-flag-checkered bg-danger"></i>
-						<div class="timeline-item">
-							<h3 class="timeline-header no-border"><a href="#">CTF</a></h3>
-						</div>
-					</div>
-                    <!-- END timeline item -->
-                    <!-- timeline time label -->
-                    <div class="time-label">
-                        <span class="bg-info">
-                          6 марта 2021 г.
-                        </span>
-                    </div>
-                    <!-- /.timeline-label -->
-                    <!-- timeline item -->
-                    <div>
-                        <i class="fas fa-comments bg-primary"></i>
-                        <div class="timeline-item">
-                            <div class="timeline-body">
-Веб, основные уязвимости
+                                Эксплуатация уязвимостей
                             </div>
                         </div>
                     </div>
@@ -275,7 +223,7 @@ OSINT. Инструменты
                     <!-- timeline time label -->
                     <div class="time-label">
                         <span class="bg-info">
-                          20 марта 2021 г.
+                            20 февраля 2021 г.
                         </span>
                     </div>
                     <!-- /.timeline-label -->
@@ -284,40 +232,23 @@ OSINT. Инструменты
                         <i class="fas fa-comments bg-primary"></i>
                         <div class="timeline-item">
                             <div class="timeline-body">
-Веб, эксплуатация
+                                Пентест
                             </div>
                         </div>
                     </div>
                     <!-- END timeline item -->
                     <!-- timeline item -->
-					<div>
-						<i class="fas fa-flag-checkered bg-danger"></i>
-						<div class="timeline-item">
-							<h3 class="timeline-header no-border"><a href="#">CTF</a></h3>
-						</div>
-					</div>
-                    <!-- END timeline item -->
-                    <!-- timeline time label -->
-                    <div class="time-label">
-                        <span class="bg-info">
-                          3 апреля 2021 г.
-                        </span>
-                    </div>
-                    <!-- /.timeline-label -->
-                    <!-- timeline item -->
                     <div>
-                        <i class="fas fa-comments bg-primary"></i>
+                        <i class="fas fa-flag-checkered bg-danger"></i>
                         <div class="timeline-item">
-                            <div class="timeline-body">
-Реверс. Что такое, для чего нужно, как применяется
-                            </div>
+                            <h3 class="timeline-header no-border"><a href="#">CTF</a></h3>
                         </div>
                     </div>
                     <!-- END timeline item -->
                     <!-- timeline time label -->
                     <div class="time-label">
                         <span class="bg-info">
-                          17 апреля 2021 г.
+                            6 марта 2021 г.
                         </span>
                     </div>
                     <!-- /.timeline-label -->
@@ -326,25 +257,82 @@ OSINT. Инструменты
                         <i class="fas fa-comments bg-primary"></i>
                         <div class="timeline-item">
                             <div class="timeline-body">
-Реверс. Задачи, решения
+                                Веб, основные уязвимости
+                            </div>
+                        </div>
+                    </div>
+                    <!-- END timeline item -->
+                    <!-- timeline time label -->
+                    <div class="time-label">
+                        <span class="bg-info">
+                            20 марта 2021 г.
+                        </span>
+                    </div>
+                    <!-- /.timeline-label -->
+                    <!-- timeline item -->
+                    <div>
+                        <i class="fas fa-comments bg-primary"></i>
+                        <div class="timeline-item">
+                            <div class="timeline-body">
+                                Веб, эксплуатация
                             </div>
                         </div>
                     </div>
                     <!-- END timeline item -->
                     <!-- timeline item -->
-					<div>
-						<i class="fas fa-flag-checkered bg-danger"></i>
-						<div class="timeline-item">
-							<h3 class="timeline-header no-border"><a href="#">CTF</a></h3>
-						</div>
-					</div>
+                    <div>
+                        <i class="fas fa-flag-checkered bg-danger"></i>
+                        <div class="timeline-item">
+                            <h3 class="timeline-header no-border"><a href="#">CTF</a></h3>
+                        </div>
+                    </div>
+                    <!-- END timeline item -->
+                    <!-- timeline time label -->
+                    <div class="time-label">
+                        <span class="bg-info">
+                            3 апреля 2021 г.
+                        </span>
+                    </div>
+                    <!-- /.timeline-label -->
+                    <!-- timeline item -->
+                    <div>
+                        <i class="fas fa-comments bg-primary"></i>
+                        <div class="timeline-item">
+                            <div class="timeline-body">
+                                Реверс. Что такое, для чего нужно, как применяется
+                            </div>
+                        </div>
+                    </div>
+                    <!-- END timeline item -->
+                    <!-- timeline time label -->
+                    <div class="time-label">
+                        <span class="bg-info">
+                            17 апреля 2021 г.
+                        </span>
+                    </div>
+                    <!-- /.timeline-label -->
+                    <!-- timeline item -->
+                    <div>
+                        <i class="fas fa-comments bg-primary"></i>
+                        <div class="timeline-item">
+                            <div class="timeline-body">
+                                Реверс. Задачи, решения
+                            </div>
+                        </div>
+                    </div>
+                    <!-- END timeline item -->
+                    <!-- timeline item -->
+                    <div>
+                        <i class="fas fa-flag-checkered bg-danger"></i>
+                        <div class="timeline-item">
+                            <h3 class="timeline-header no-border"><a href="#">CTF</a></h3>
+                        </div>
+                    </div>
                     <!-- END timeline item -->
                     <div>
                         <i class="far fa-clock bg-gray"></i>
                     </div>
                 </div>
-
-
             </div>
             <!-- /.row -->
         </div><!-- /.container-fluid -->
@@ -352,4 +340,3 @@ OSINT. Инструменты
     <!-- /.content -->
 </div>
 <!-- /.content-wrapper -->
-  
