@@ -15,6 +15,7 @@
     <!-- Main content -->
     <div class="content">
         <div class="container-fluid">
+          <div class="row d-flex align-items-stretch">
             <div class="col-12 col-sm-6 col-md-4 d-flex align-items-stretch">
               <div class="card bg-light">
                 <div class="card-header text-muted border-bottom-0">
@@ -496,9 +497,9 @@
               </div>
             </div>
 
+            </div>
         </div><!-- /.container-fluid -->
     </div>
     <!-- /.content -->
 </div>
 <!-- /.content-wrapper -->
-  
