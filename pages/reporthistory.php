@@ -16,9 +16,35 @@
         <div class="container-fluid">
             <!-- The timeline -->
             <div class="timeline timeline-inverse">
+                <!-- timeline time label -->
                 <div class="time-label">
                     <span class="bg-info">
-                        29 августа 2020 г.
+                        19 сентября 2020 г.
+                    </span>
+                </div>
+                <!-- /.timeline-label -->
+                <!-- timeline item -->
+                <div>
+                    <i class="fas fa-comments bg-primary"></i>
+                    <div class="timeline-item">
+                        <div class="timeline-header">
+                            OSINT. Что такое, для чего нужно, как применяется
+                        </div>
+                        <div class="timeline-body">
+                            О чем поговорили:<br>
+                            1. Немного истории: старые способы добывать информацию из открытых и добровольных источников<br>
+                            2. С какой целью и Как добывает и использует информацию «бывшая девушка» осинтер<br>
+                            3. OSINT автоматизаторы<br>
+                            4. Новые разработки: защита от осинтеров<br>
+                            5. Горячая благодарность от осинтеров тем, кто не защищает ПДн<br>
+                            6. Примеры задач OSINT CTF<br>
+                        </div>
+                    </div>
+                </div>
+                <!-- END timeline item -->
+                <div class="time-label">
+                    <span class="bg-info">
+                        5 сентября 2020 г.
                     </span>
                 </div>
                 <!-- /.timeline-label -->

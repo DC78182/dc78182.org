@@ -19,23 +19,6 @@
                 <!-- timeline time label -->
                 <div class="time-label">
                     <span class="bg-info">
-                        19 сентября 2020 г.
-                    </span>
-                </div>
-                <!-- /.timeline-label -->
-                <!-- timeline item -->
-                <div>
-                    <i class="fas fa-comments bg-primary"></i>
-                    <div class="timeline-item">
-                        <div class="timeline-body">
-                            OSINT. Что такое, для чего нужно, как применяется
-                        </div>
-                    </div>
-                </div>
-                <!-- END timeline item -->
-                <!-- timeline time label -->
-                <div class="time-label">
-                    <span class="bg-info">
                         3 октября 2020 г.
                     </span>
                 </div>
