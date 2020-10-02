@@ -35,6 +35,16 @@
                 <!-- END timeline item -->
                 <!-- timeline item -->
                 <div>
+                    <i class="fas fa-map-marker-alt bg-success"></i>
+                    <div class="timeline-item">
+                        <div class="timeline-body">
+                            Архангельск, Новгородский, 32, корпус B, 3 этаж, 11:00
+                        </div>
+                    </div>
+                </div>
+                <!-- END timeline item -->
+                <!-- timeline item -->
+                <div>
                     <i class="fas fa-flag-checkered bg-danger"></i>
                     <div class="timeline-item">
                         <h3 class="timeline-header no-border"><a href="#">CTF</a></h3>
