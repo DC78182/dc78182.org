@@ -29,9 +29,16 @@
                     <div class="timeline-item">
                         <h3 class="timeline-header no-border">CTF (OSINT)</h3>
                         <div class="timeline-body">
+                            Итак, наш CTF завершился!<br>
+                            <br>
                             1 место: capibara1<br>
                             2 место: Mauser98k<br>
                             3 место: crocoG<br>
+                            <br>
+                            Поздравляем победителей и участников!<br>
+                            Если победителю интересно получить приз - приходите к нам в офис :)<br>
+                            <br>
+                            В ближайшие дни сделаем разбор заданий и опубликуем в чате. Следите за обновлениями :)<br>
                             <img src="/imgs/ctf1.PNG">
                         </div>
                     </div>
