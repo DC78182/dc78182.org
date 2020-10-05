@@ -19,6 +19,34 @@
                 <!-- timeline time label -->
                 <div class="time-label">
                     <span class="bg-info">
+                        3 октября 2020 г.
+                    </span>
+                </div>
+                <!-- /.timeline-label -->
+                <!-- timeline item -->
+                <div>
+                    <i class="fas fa-comments bg-primary"></i>
+                    <div class="timeline-item">
+                        <div class="timeline-header">
+                            OSINT. Инструменты
+                        </div>
+                        <div class="timeline-body">
+                            Тема ОСИНТа все еще продолжается - рассказали про инструменты, попробовали супер-лайтовую CTF-ку, заодно протестили нашу платформу ;)
+                        </div>
+                    </div>
+                </div>
+                <!-- END timeline item -->
+                <!-- timeline item -->
+                <div>
+                    <i class="fas fa-flag-checkered bg-danger"></i>
+                    <div class="timeline-item">
+                        <h3 class="timeline-header no-border"><a href="/index.php?p=oldctf">CTF</a></h3>
+                    </div>
+                </div>
+                <!-- END timeline item -->
+                <!-- timeline time label -->
+                <div class="time-label">
+                    <span class="bg-info">
                         19 сентября 2020 г.
                     </span>
                 </div>

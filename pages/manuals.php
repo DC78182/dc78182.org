@@ -15,7 +15,7 @@
     <div class="content">
         <div class="container-fluid">
             <div class="card collapsed-card">
-                <div class="card-header">
+                <div class="card-header btn" data-card-widget="collapse">
                     <h3 class="card-title">Web</h3>
                     <div class="card-tools">
                         <button type="button" class="btn btn-tool" data-card-widget="collapse" data-toggle="tooltip" title="Collapse">
@@ -162,7 +162,7 @@
                 <!-- /.card-body -->
             </div>
             <div class="card collapsed-card">
-                <div class="card-header">
+                <div class="card-header btn" data-card-widget="collapse">
                     <h3 class="card-title">Железо</h3>
                     <div class="card-tools">
                         <button type="button" class="btn btn-tool" data-card-widget="collapse" data-toggle="tooltip" title="Collapse">
@@ -201,7 +201,7 @@
                 <!-- /.card-body -->
             </div>
             <div class="card collapsed-card">
-                <div class="card-header">
+                <div class="card-header btn" data-card-widget="collapse">
                     <h3 class="card-title">Red team</h3>
                     <div class="card-tools">
                         <button type="button" class="btn btn-tool" data-card-widget="collapse" data-toggle="tooltip" title="Collapse">
@@ -325,7 +325,7 @@
                 <!-- /.card-body -->
             </div>
             <div class="card collapsed-card">
-                <div class="card-header">
+                <div class="card-header btn" data-card-widget="collapse">
                     <h3 class="card-title">Blue team</h3>
                     <div class="card-tools">
                         <button type="button" class="btn btn-tool" data-card-widget="collapse" data-toggle="tooltip" title="Collapse">
@@ -525,7 +525,7 @@
                 <!-- /.card-body -->
             </div>
             <div class="card collapsed-card">
-                <div class="card-header">
+                <div class="card-header btn" data-card-widget="collapse">
                     <h3 class="card-title">Purple team</h3>
                     <div class="card-tools">
                         <button type="button" class="btn btn-tool" data-card-widget="collapse" data-toggle="tooltip" title="Collapse">
@@ -614,7 +614,7 @@
                 <!-- /.card-body -->
             </div>
             <div class="card collapsed-card">
-                <div class="card-header">
+                <div class="card-header btn" data-card-widget="collapse">
                     <h3 class="card-title">Криптография</h3>
                     <div class="card-tools">
                         <button type="button" class="btn btn-tool" data-card-widget="collapse" data-toggle="tooltip" title="Collapse">

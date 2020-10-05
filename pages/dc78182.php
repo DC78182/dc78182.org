@@ -19,7 +19,7 @@
                 <!-- timeline time label -->
                 <div class="time-label">
                     <span class="bg-info">
-                        3 октября 2020 г.
+                        17 октября 2020 г.
                     </span>
                 </div>
                 <!-- /.timeline-label -->
@@ -28,7 +28,7 @@
                     <i class="fas fa-comments bg-primary"></i>
                     <div class="timeline-item">
                         <div class="timeline-body">
-                            OSINT. Инструменты
+                            Операционные системы, Анонимоность: как вычисляются посетители на сайте, как не спалиться
                         </div>
                     </div>
                 </div>
@@ -39,31 +39,6 @@
                     <div class="timeline-item">
                         <div class="timeline-body">
                             Архангельск, Новгородский, 32, корпус B, 3 этаж, 11:00
-                        </div>
-                    </div>
-                </div>
-                <!-- END timeline item -->
-                <!-- timeline item -->
-                <div>
-                    <i class="fas fa-flag-checkered bg-danger"></i>
-                    <div class="timeline-item">
-                        <h3 class="timeline-header no-border"><a href="#">CTF</a></h3>
-                    </div>
-                </div>
-                <!-- END timeline item -->
-                <!-- timeline time label -->
-                <div class="time-label">
-                    <span class="bg-info">
-                        17 октября 2020 г.
-                    </span>
-                </div>
-                <!-- /.timeline-label -->
-                <!-- timeline item -->
-                <div>
-                    <i class="fas fa-comments bg-primary"></i>
-                    <div class="timeline-item">
-                        <div class="timeline-body">
-                            ОСИ. Анонимоность: как вычисляются посетители на сайте, как не спалиться
                         </div>
                     </div>
                 </div>
@@ -140,7 +115,7 @@
                 <div>
                     <i class="fas fa-flag-checkered bg-danger"></i>
                     <div class="timeline-item">
-                        <h3 class="timeline-header no-border"><a href="#">CTF</a></h3>
+                        <h3 class="timeline-header no-border"><a href="/index.php?p=rating">CTF</a></h3>
                     </div>
                 </div>
                 <!-- END timeline item -->
@@ -233,7 +208,7 @@
                 <div>
                     <i class="fas fa-flag-checkered bg-danger"></i>
                     <div class="timeline-item">
-                        <h3 class="timeline-header no-border"><a href="#">CTF</a></h3>
+                        <h3 class="timeline-header no-border"><a href="/index.php?p=rating">CTF</a></h3>
                     </div>
                 </div>
                 <!-- END timeline item -->
@@ -275,7 +250,7 @@
                 <div>
                     <i class="fas fa-flag-checkered bg-danger"></i>
                     <div class="timeline-item">
-                        <h3 class="timeline-header no-border"><a href="#">CTF</a></h3>
+                        <h3 class="timeline-header no-border"><a href="/index.php?p=rating">CTF</a></h3>
                     </div>
                 </div>
                 <!-- END timeline item -->
@@ -317,7 +292,7 @@
                 <div>
                     <i class="fas fa-flag-checkered bg-danger"></i>
                     <div class="timeline-item">
-                        <h3 class="timeline-header no-border"><a href="#">CTF</a></h3>
+                        <h3 class="timeline-header no-border"><a href="/index.php?p=rating">CTF</a></h3>
                     </div>
                 </div>
                 <!-- END timeline item -->
