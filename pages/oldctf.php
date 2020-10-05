@@ -29,9 +29,9 @@
                     <div class="timeline-item">
                         <h3 class="timeline-header no-border">CTF (OSINT)</h3>
                         <div class="timeline-body">
-                            1 место: capibara1 и Mauser98k<br>
-                            2 место: crocoG<br>
-                            3 место: nosedname<br>
+                            1 место: capibara1<br>
+                            2 место: Mauser98k<br>
+                            3 место: crocoG<br>
                             <img src="/imgs/ctf1.PNG">
                         </div>
                     </div>
