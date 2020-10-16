@@ -38,7 +38,9 @@
                     <i class="fas fa-map-marker-alt bg-success"></i>
                     <div class="timeline-item">
                         <div class="timeline-body">
-                            Архангельск, Новгородский, 32, корпус B, 3 этаж, 11:00
+                            Встреча DC пройдет в формате онлайн-лекции.<br>
+                            <a href="https://youtu.be/YPyxnF4gERc" target="_blank">https://youtu.be/YPyxnF4gERc</a><br>
+                            Трансляция начнется 17.10.2020 в 11.00 по МСК.<br>
                         </div>
                     </div>
                 </div>
@@ -56,6 +58,16 @@
                     <div class="timeline-item">
                         <div class="timeline-body">
                             Домашние средства защиты, что защищать нужно, уязвимые ресурсы, умные вещи
+                        </div>
+                    </div>
+                </div>
+                <!-- END timeline item -->
+                <!-- timeline item -->
+                <div>
+                    <i class="fas fa-map-marker-alt bg-success"></i>
+                    <div class="timeline-item">
+                        <div class="timeline-body">
+                            Архангельск, Новгородский, 32, корпус B, 3 этаж, 11:00
                         </div>
                     </div>
                 </div>
