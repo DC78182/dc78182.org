@@ -19,6 +19,34 @@
                 <!-- timeline time label -->
                 <div class="time-label">
                     <span class="bg-info">
+                        17 октября 2020 г.
+                    </span>
+                </div>
+                <!-- /.timeline-label -->
+                <!-- timeline item -->
+                <div>
+                    <i class="fas fa-comments bg-primary"></i>
+                    <div class="timeline-item">
+                        <div class="timeline-body">
+                            Операционные системы, Анонимоность: как вычисляются посетители на сайте, как не спалиться
+                        </div>
+                    </div>
+                </div>
+                <!-- END timeline item -->
+                <!-- timeline item -->
+                <div>
+                    <i class="fas fa-map-marker-alt bg-success"></i>
+                    <div class="timeline-item">
+                        <div class="timeline-body">
+                            Встреча DC пройдет в формате онлайн-лекции.<br>
+                            <iframe width="640" height="360" src="https://www.youtube.com/embed/YPyxnF4gERc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        </div>
+                    </div>
+                </div>
+                <!-- END timeline item -->
+                <!-- timeline time label -->
+                <div class="time-label">
+                    <span class="bg-info">
                         3 октября 2020 г.
                     </span>
                 </div>
