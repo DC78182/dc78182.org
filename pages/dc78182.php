@@ -19,7 +19,7 @@
                 <!-- timeline time label -->
                 <div class="time-label">
                     <span class="bg-info">
-                        31 октября 2020 г.
+                        14 ноября 2020 г.
                     </span>
                 </div>
                 <!-- /.timeline-label -->
@@ -28,7 +28,7 @@
                     <i class="fas fa-comments bg-primary"></i>
                     <div class="timeline-item">
                         <div class="timeline-body">
-                            Домашние средства защиты, что защищать нужно, уязвимые ресурсы, умные вещи
+                            Домашние средства защиты, что защищать нужно, уязвимые ресурсы, умные вещи, инструменты защиты, как защищаем
                         </div>
                     </div>
                 </div>
@@ -40,23 +40,6 @@
                         <div class="timeline-body">
                             <!-- Архангельск, Новгородский, 32, корпус B, 3 этаж, 11:00 -->
                             Адрес и время уточняется.
-                        </div>
-                    </div>
-                </div>
-                <!-- END timeline item -->
-                <!-- timeline time label -->
-                <div class="time-label">
-                    <span class="bg-info">
-                        14 ноября 2020 г.
-                    </span>
-                </div>
-                <!-- /.timeline-label -->
-                <!-- timeline item -->
-                <div>
-                    <i class="fas fa-comments bg-primary"></i>
-                    <div class="timeline-item">
-                        <div class="timeline-body">
-                            Домашние средства защиты, Инструменты защиты, как защищаем
                         </div>
                     </div>
                 </div>
