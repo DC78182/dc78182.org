@@ -20,39 +20,6 @@
                     <!-- timeline time label -->
                     <div class="time-label">
                         <span class="bg-info">
-                            23 января 2021 г.
-                        </span>
-                    </div>
-                    <!-- /.timeline-label -->
-                    <!-- timeline item -->
-                    <div>
-                        <i class="fas fa-comments bg-primary"></i>
-                        <div class="timeline-item">
-                            <div class="timeline-header">
-                                <h5>Социальная инженерия</h5>
-                            </div>
-                            <div class="timeline-body">
-                                Что это такое, для чего нужно и как применяется?
-                                <br>
-                                Разбор кейсов и противодействия.
-                            </div>
-                        </div>
-                    </div>
-                    <!-- END timeline item -->
-                    <!-- timeline item -->
-                    <div>
-                        <i class="fas fa-map-marker-alt bg-success"></i>
-                        <div class="timeline-item">
-                            <div class="timeline-body">
-                                <!-- Архангельск, Новгородский, 32, корпус B, 3 этаж, 11:00 -->
-                                Адрес и время уточняется.
-                            </div>
-                        </div>
-                    </div>
-                    <!-- END timeline item -->
-                    <!-- timeline time label -->
-                    <div class="time-label">
-                        <span class="bg-info">
                             06 февраля 2021 г.
                         </span>
                     </div>
@@ -68,6 +35,17 @@
                                 Для чего нужна и как применяется?
                                 <br>
                                 Методы и способы.
+                            </div>
+                        </div>
+                    </div>
+                    <!-- END timeline item -->
+                    <!-- timeline item -->
+                    <div>
+                        <i class="fas fa-map-marker-alt bg-success"></i>
+                        <div class="timeline-item">
+                            <div class="timeline-body">
+                                <!-- Архангельск, Новгородский, 32, корпус B, 3 этаж, 11:00 -->
+                                Адрес и время уточняется.
                             </div>
                         </div>
                     </div>
