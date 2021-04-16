@@ -20,6 +20,76 @@
                     <!-- timeline time label -->
                     <div class="time-label">
                         <span class="bg-info">
+                            03 апреля 2021 г.
+                        </span>
+                    </div>
+                    <!-- /.timeline-label -->
+                    <!-- timeline item -->
+                    <div>
+                        <i class="fas fa-comments bg-primary"></i>
+                        <div class="timeline-item">
+                            <div class="timeline-header">
+                                <h5>Заражение</h5>
+                            </div>
+                            <div class="timeline-body">
+                                Запуск вредоносного кода и эксплуатация уязвимостей системы.
+                                <br>
+                                Анализ вредоносного программного обеспечения, сигнатуры и все что с этим связанно.
+                                <br>
+                                <iframe width="640" height="360" src="https://www.youtube.com/embed/eR35hs32O98" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- END timeline item -->
+                    <!-- timeline time label -->
+                    <div class="time-label">
+                        <span class="bg-info">
+                            20 марта 2021 г.
+                        </span>
+                    </div>
+                    <!-- /.timeline-label -->
+                    <!-- timeline item -->
+                    <div>
+                        <i class="fas fa-comments bg-primary"></i>
+                        <div class="timeline-item">
+                            <div class="timeline-header">
+                                <h5>Вооружение и Доставка</h5>
+                            </div>
+                            <div class="timeline-body">
+                                Какими инструментами пользуются для совершения нападения?
+                                <br>
+                                Каким образом доставляют вредоносный контент и ПО до целевой системы?
+                                <br>
+                                <iframe width="640" height="360" src="https://www.youtube.com/embed/rrfvy0jEM5M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- END timeline item -->
+                    <!-- timeline time label -->
+                    <div class="time-label">
+                        <span class="bg-info">
+                            06 марта 2021 г.
+                        </span>
+                    </div>
+                    <!-- /.timeline-label -->
+                    <!-- timeline item -->
+                    <div>
+                        <i class="fas fa-comments bg-primary"></i>
+                        <div class="timeline-item">
+                            <div class="timeline-header">
+                                <h5>Разведка</h5>
+                            </div>
+                            <div class="timeline-body">
+                                Как добывают информацию о вашей системе и как выбирают цель?
+                                <br>
+                                <iframe width="640" height="360" src="https://www.youtube.com/embed/GMp-KimPf3M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- END timeline item -->
+                    <!-- timeline time label -->
+                    <div class="time-label">
+                        <span class="bg-info">
                             20 февраля 2021 г.
                         </span>
                     </div>
