@@ -17,28 +17,7 @@
             <div class="row">
                 <!-- The timeline -->
                 <div class="timeline timeline-inverse">
-                
-                    <!-- timeline time label -->
-                    <div class="time-label">
-                        <span class="bg-info">
-                            17 апреля 2021 г.
-                        </span>
-                    </div>
-                    <!-- /.timeline-label -->
-                    <!-- timeline item -->
-                    <div>
-                        <i class="fas fa-comments bg-primary"></i>
-                        <div class="timeline-item">
-                            <div class="timeline-header">
-                                <h5>Организационное собрание по участию в TheStandoff 2021</h5>
-                            </div>
-                            <div class="timeline-body">
-                                <br>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- END timeline item -->
-                    <!-- timeline item -->
+                    <!-- timeline item --
                     <div>
                         <i class="fas fa-map-marker-alt bg-success"></i>
                         <div class="timeline-item">
@@ -47,11 +26,11 @@
                             </div>
                         </div>
                     </div>
-                    <!-- END timeline item -->
+                     !-- END timeline item -->
                     <!-- timeline time label -->
                     <div class="time-label">
                         <span class="bg-info">
-                            18 мая 2021 г.
+                            05 июня 2021 г.
                         </span>
                     </div>
                     <!-- /.timeline-label -->
@@ -60,10 +39,35 @@
                         <i class="fas fa-comments bg-primary"></i>
                         <div class="timeline-item">
                             <div class="timeline-header">
-                                <h5>Участие в TheStandoff 2021</h5>
+                                <h5>Инсталляция и управление</h5>
                             </div>
                             <div class="timeline-body">
+                                Как получить удаленный доступ и что можно сделать с зараженной системой?
                                 <br>
+                                Как незаметно управлять системой, не привлекая внимание санитаров?
+                            </div>
+                        </div>
+                    </div>
+                    <!-- END timeline item -->
+
+                    <!-- timeline time label -->
+                    <div class="time-label">
+                        <span class="bg-info">
+                            19 июня 2021 г.
+                        </span>
+                    </div>
+                    <!-- /.timeline-label -->
+                    <!-- timeline item -->
+                    <div>
+                        <i class="fas fa-comments bg-primary"></i>
+                        <div class="timeline-item">
+                            <div class="timeline-header">
+                                <h5>Loot it!</h5>
+                            </div>
+                            <div class="timeline-body">
+                                Для чего все это было?
+                                <br>
+                                Сбор, кража, отправка данных, шифрование файлов, подмена и удаление данных.
                             </div>
                         </div>
                     </div>
@@ -90,65 +94,10 @@
                         </div>
                     </div>
                     <!-- END timeline item -->
-                    <!-- timeline item -->
-                    <div>
-                        <i class="fas fa-map-marker-alt bg-success"></i>
-                        <div class="timeline-item">
-                            <div class="timeline-body">
-                                <!-- Архангельск, Новгородский, 32, корпус B, 3 этаж, 11:00 -->
-                                Адрес и время уточняется.
-                            </div>
-                        </div>
-                    </div>
-                    <!-- END timeline item -->
                     <!-- timeline time label -->
                     <div class="time-label">
                         <span class="bg-info">
-                            29 мая 2021 г.
-                        </span>
-                    </div>
-                    <!-- /.timeline-label -->
-                    <!-- timeline item -->
-                    <div>
-                        <i class="fas fa-comments bg-primary"></i>
-                        <div class="timeline-item">
-                            <div class="timeline-header">
-                                <h5>Инсталляция и управление</h5>
-                            </div>
-                            <div class="timeline-body">
-                                Как получить удаленный доступ и что можно сделать с зараженной системой?
-                                <br>
-                                Как незаметно управлять системой, не привлекая внимание санитаров?
-                            </div>
-                        </div>
-                    </div>
-                    <!-- END timeline item -->
-                    <!-- timeline time label -->
-                    <div class="time-label">
-                        <span class="bg-info">
-                            12 июня 2021 г.
-                        </span>
-                    </div>
-                    <!-- /.timeline-label -->
-                    <!-- timeline item -->
-                    <div>
-                        <i class="fas fa-comments bg-primary"></i>
-                        <div class="timeline-item">
-                            <div class="timeline-header">
-                                <h5>Loot it!</h5>
-                            </div>
-                            <div class="timeline-body">
-                                Для чего все это было?
-                                <br>
-                                Сбор, кража, отправка данных, шифрование файлов, подмена и удаление данных.
-                            </div>
-                        </div>
-                    </div>
-                    <!-- END timeline item -->
-                    <!-- timeline time label -->
-                    <div class="time-label">
-                        <span class="bg-info">
-                            26 июня 2021 г.
+                            Дата уточняется
                         </span>
                     </div>
                     <!-- /.timeline-label -->
@@ -168,7 +117,7 @@
                     <!-- timeline time label -->
                     <div class="time-label">
                         <span class="bg-info">
-                            10 июля 2021 г.
+                            Дата уточняется
                         </span>
                     </div>
                     <!-- /.timeline-label -->
@@ -188,7 +137,7 @@
                     <!-- timeline time label -->
                     <div class="time-label">
                         <span class="bg-info">
-                            24 июня 2021 г.
+                            Дата уточняется
                         </span>
                     </div>
                     <!-- /.timeline-label -->
